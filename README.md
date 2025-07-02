@@ -15,6 +15,23 @@
 
 ---
 
+### 💡 Self-Made Project: Client Loop
+
+**Client Loop** is a full-stack web application designed to improve communication and transparency between clients and developers during the software development lifecycle.
+
+#### 🚀 Features:
+- 🧩 **Real-Time Developer Monitoring**: Clients can view live updates on development progress, status changes, and code submissions.
+- 📝 **Interactive Feedback Loop**: Clients can add **inline comments**, request changes, and give approvals directly within the platform.
+- 📂 **Module-Based Tracking**: Project is broken into modules — each with its own status, timelines, files, and feedback space.
+- 🔔 **Smart Notifications**: Developers are instantly notified of client suggestions, bugs, or change requests.
+- 📊 **Dashboard Analytics**: Tracks project progress, pending feedback, module health, and productivity stats.
+- 🔐 **Role-Based Access Control**: Secure login system for clients, developers, and project managers with tailored dashboards.
+
+#### 💼 Purpose:
+Client Loop is built to eliminate the need for long email threads, unclear WhatsApp chats, or confusing bug lists. It empowers clients to **communicate clearly** and helps developers to **track, prioritize, and fix issues** efficiently — all in one place.
+
+---
+
 ### 🛠️ Languages and Tools I Use:
 
 #### 🌐 Web Development
