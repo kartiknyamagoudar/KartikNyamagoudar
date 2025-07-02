@@ -10,7 +10,7 @@
 ---
 
 ### 🤝 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/kartik-nyamagoudar)
+- Linkdin: [LinkedIn](www.linkedin.com/in/kartiknyamagoudar)
 - GitHub: [KartikNyamagoudar](https://github.com/KartikNyamagoudar)
 
 ---
