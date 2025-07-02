@@ -2,7 +2,7 @@
 
 **A passionate Web Application Developer | Focused on Frontend, Backend, WordPress, and AI-DevOps**
 
-🌱 I’m currently learning **React**, **Node.js**, and **AI-Driven DevOps practices**  
+🌱 I’m currently learning **React**, **Node.js**, **tailwind**, **Bootstrap** and **AI-Driven DevOps practices**  
 👨‍💻 All of my projects are available at: [https://github.com/KartikNyamagoudar](https://github.com/KartikNyamagoudar)  
 📫 How to reach me: **kartiknyamagoudar@gmail.com**  
 ⚡ Fun fact: I love building clean, scalable, and responsive web applications ⚙️  
@@ -15,7 +15,7 @@
 
 ---
 
-### 💡 Self-Made Project: Client Loop
+### 💡 Live Working Project: Client Loop
 
 **Client Loop** is a full-stack web application designed to improve communication and transparency between clients and developers during the software development lifecycle.
 
