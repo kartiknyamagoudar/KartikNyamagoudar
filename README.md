@@ -19,7 +19,7 @@
 
 **Client Loop** is a full-stack web application designed to improve communication and transparency between clients and developers during the software development lifecycle.
 
-🔗 [Live Demo](https://www.clientloops.com)  
+🔗 Live Demo: [ClientLoop](https://clientloops-21.vercel.app/)  
 
 #### 🚀 Features:
 - 🧩 **Real-Time Developer Monitoring**: Clients can view live updates on development progress, status changes, and code submissions.
