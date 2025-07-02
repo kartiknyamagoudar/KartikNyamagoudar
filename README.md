@@ -1,11 +1,11 @@
 # Hi 👋, I'm Kartik Nyamagoudar
 
-**A passionate Web Application Developer | Focused on Frontend, Backend, and AI-DevOps**
+**A passionate Web Application Developer | Focused on Frontend, Backend, WordPress, and AI-DevOps**
 
 🌱 I’m currently learning **React**, **Node.js**, and **AI-Driven DevOps practices**  
 👨‍💻 All of my projects are available at: [https://github.com/KartikNyamagoudar](https://github.com/KartikNyamagoudar)  
 📫 How to reach me: **kartiknyamagoudar@gmail.com**  
-⚡ Fun fact: I love building clean and responsive web applications ⚙️  
+⚡ Fun fact: I love building clean, scalable, and responsive web applications ⚙️  
 
 ---
 
@@ -27,10 +27,11 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-#### ⚙️ Backend, DevOps & Tools
+#### ⚙️ Backend, DevOps & AI Tools
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
