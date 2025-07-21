@@ -2,7 +2,6 @@
 
 **A passionate Web Application Developer | Focused on Frontend, Backend, WordPress, and AI-DevOps**
 
-    <img src="https://komarev.com/ghpvc/?username=sakit333&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="sakit333" />
 
 🌱 I’m currently learning **React**, **Node.js**, **tailwind**, **Bootstrap** and **AI-Driven DevOps practices**  
 👨‍💻 All of my projects are available at: [https://github.com/KartikNyamagoudar](https://github.com/KartikNyamagoudar)  
