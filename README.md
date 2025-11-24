@@ -1,72 +1,59 @@
-# Hi 👋, I'm Kartik Nyamagoudar
+# 👋 Hi, I'm Kartik Nyamagoudar  
+### 💼 Java Full-Stack Developer
 
-**A passionate Web Application Developer | Focused on Frontend, Backend, WordPress, and AI-DevOps**
-
-
-🌱 I’m currently learning **React**, **Node.js**, **tailwind**, **Bootstrap** and **AI-Driven DevOps practices**  
-👨‍💻 All of my projects are available at: [https://github.com/KartikNyamagoudar](https://github.com/KartikNyamagoudar)  
-📫 How to reach me: **kartiknyamagoudar@gmail.com**  
-⚡ Fun fact: I love building clean, scalable, and responsive web applications ⚙️  
+I am a passionate developer who loves building clean, scalable, and efficient web applications.  
+I enjoy working across both frontend and backend, creating smooth user experiences and strong backend logic.
 
 ---
 
-### 🤝 Connect with me:
-- Linkdin: [KartikNyamagoudar](www.linkedin.com/in/kartiknyamagoudar)
-- GitHub: [KartikNyamagoudar](https://github.com/KartikNyamagoudar)
+## 👨‍💻 About Me
+- 🌱 Currently learning **React**, **Node.js**, and DevOps basics  
+- 💻 Strong in **Java**, **Spring Boot**, and **Full-Stack Web Development**  
+- 📫 Reach me at: **kartiknyamagoudar@gmail.com**  
+- 🔗 GitHub: [KartikNyamagoudar](https://github.com/KartikNyamagoudar)  
+- ⚡ Fun fact: I love turning complex ideas into simple, working products  
 
 ---
 
-### 💡 Live Working Project: Client Loop
+## 🛠️ Tech Stack
 
-**Client Loop** is a full-stack web application designed to improve communication and transparency between clients and developers during the software development lifecycle.
-
-🔗 Live Demo: [ClientLoopDemo](https://clientloops-21.vercel.app/)  
-🔗 Signup: [ClientLoop](https://www.clientloops.com)  
-
-
-#### 🚀 Features:
-- 🧩 **Real-Time Developer Monitoring**: Clients can view live updates on development progress, status changes, and code submissions.
-- 📝 **Interactive Feedback Loop**: Clients can add **inline comments**, request changes, and give approvals directly within the platform.
-- 📂 **Module-Based Tracking**: Project is broken into modules — each with its own status, timelines, files, and feedback space.
-- 🔔 **Smart Notifications**: Developers are instantly notified of client suggestions, bugs, or change requests.
-- 📊 **Dashboard Analytics**: Tracks project progress, pending feedback, module health, and productivity stats.
-- 🔐 **Role-Based Access Control**: Secure login system for clients, developers, and project managers with tailored dashboards.
-
-#### 💼 Purpose:
-Client Loop is built to eliminate the need for long email threads, unclear WhatsApp chats, or confusing bug lists. It empowers clients to **communicate clearly** and helps developers to **track, prioritize, and fix issues** efficiently — all in one place.
-
----
-
-### 🛠️ Languages and Tools I Use:
-
-#### 🌐 Web Development
-<p align="left">
+### 🌐 Frontend
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-#### ⚙️ Backend, DevOps & AI Tools
-<p align="left">
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Platforms
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-
-#### 🎨 Design
-<p align="left">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
 ---
 
-Thanks for visiting! 😊
+Thanks for visiting my profile! 🚀
