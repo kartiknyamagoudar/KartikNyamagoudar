@@ -10,7 +10,7 @@ I enjoy working across both frontend and backend, creating smooth user experienc
 - 🌱 Currently learning **React**, **Node.js**, and DevOps basics  
 - 💻 Strong in **Java**, **Spring Boot**, and **Full-Stack Web Development**  
 - 📫 Reach me at: **kartiknyamagoudar@gmail.com**  
-- 🔗 Linkdin: [KartikNyamagoudar]([https://github.com/KartikNyamagoudar](https://www.linkedin.com/in/kartiknyamagoudar/)])  
+- 🔗 LinkedIn: [KartikNyamagoudar](https://www.linkedin.com/in/kartiknyamagoudar/)
 - ⚡ Fun fact: I love turning complex ideas into simple, working products  
 
 ---
